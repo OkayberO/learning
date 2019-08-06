@@ -1,3 +1,3 @@
-#Õâ¸öÊÇÁ·Ï°±à³ÌÓïÑÔµÄ²Ö¿â
+## è¿™ä¸ªæ˜¯ç»ƒä¹ ç¼–ç¨‹è¯­è¨€çš„ä»“åº“
 - Git is a version control system.
 - Git is free software.
